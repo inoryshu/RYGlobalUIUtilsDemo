@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'RYGlobalUIUtilsDemo'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of RYGlobalUIUtilsDemo.'
+  s.summary          = 'RYGlobalUIUtilsDemo 这是一个项目通用组件库'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -21,17 +21,17 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/inory.guan/RYGlobalUIUtilsDemo'
+  s.homepage         = 'https://github.com/inoryshu/RYGlobalUIUtilsDemo'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'inory.guan' => 'inoryxun@gmail.com' }
-  s.source           = { :git => 'https://github.com/inory.guan/RYGlobalUIUtilsDemo.git', :tag => s.version.to_s }
+  s.author           = { 'inoryguan' => 'inoryxun@gmail.com' }
+  s.source           = { :git => 'https://github.com/inoryshu/RYGlobalUIUtilsDemo.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'RYGlobalUIUtilsDemo/Classes/**/*'
-  
+
   # s.resource_bundles = {
   #   'RYGlobalUIUtilsDemo' => ['RYGlobalUIUtilsDemo/Assets/*.png']
   # }

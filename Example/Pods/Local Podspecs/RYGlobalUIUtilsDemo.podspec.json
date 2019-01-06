@@ -1,0 +1,22 @@
+{
+  "name": "RYGlobalUIUtilsDemo",
+  "version": "0.1.0",
+  "summary": "A short description of RYGlobalUIUtilsDemo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/inoryshu/RYGlobalUIUtilsDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "inoryguan": "inoryxun@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/inoryshu/RYGlobalUIUtilsDemo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "RYGlobalUIUtilsDemo/Classes/**/*"
+}

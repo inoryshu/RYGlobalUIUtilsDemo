@@ -1,0 +1,6 @@
+framework module Pods_RYGlobalUIUtilsDemo_Example {
+  umbrella header "Pods-RYGlobalUIUtilsDemo_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module RYGlobalUIUtilsDemo {
+  umbrella header "RYGlobalUIUtilsDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

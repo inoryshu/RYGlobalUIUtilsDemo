@@ -1,0 +1,16 @@
+PODS:
+  - RYGlobalUIUtilsDemo (0.1.0)
+
+DEPENDENCIES:
+  - RYGlobalUIUtilsDemo (from `../`)
+
+EXTERNAL SOURCES:
+  RYGlobalUIUtilsDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  RYGlobalUIUtilsDemo: dea316ffc71e856a70019e3d1db5979837231989
+
+PODFILE CHECKSUM: a39bc7db36353ab2a91ca7736219c998f68e71ce
+
+COCOAPODS: 1.5.3
